@@ -1,6 +1,6 @@
 
 module.exports = {
-  SESSION_ID: "",  // add your Session Id here
+  SESSION_ID: "malvin~9vl3CDKT#mwUz02YRYPUS2Vmw6Dl8ThNzwkqbyqiC0NirLR0DXpY",  // add your Session Id here
   
   OWNER_NUMBER: "263714757857", // put your phone number here
   
